@@ -1,0 +1,41 @@
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio cache/options
+.vs/
+*.vsidx
+*.lock.json
+
+## Rider / JetBrains
+.idea/
+
+## VS Code
+.vscode/
+
+## Tooling
+*.tlog
+*.cache
+*.pdb
+*.dll
+*.exe
+
+## Environment
+appsettings.Development.json
+
+## OS
+Thumbs.db
+.DS_Store
